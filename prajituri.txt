@@ -1,0 +1,1 @@
+[{"id": 3, "name": "rolli", "description": "foarte buna", "price": 55, "calories": 345, "year": 2005}, {"id": 33, "name": "roc", "description": "fpaa", "price": 33, "calories": 45, "year": 1999}]
